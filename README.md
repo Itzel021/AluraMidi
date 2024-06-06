@@ -1,1 +1,1 @@
-Alura Midi es un instrumento musical con una interfaz digital, en donde con cada botón reproducimos el sonido de un instrumento.
+Alura Midi es un instrumento musical con una interfaz digital, en donde con cada botón reproducimos el sonido de un instrumento. Este proyecto fue realizado durante el curso de Alura Latam - Front End.
